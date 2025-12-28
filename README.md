@@ -1,8 +1,4 @@
 # **Strategic Workforce Compensation & Tax Analytics**
-
-### **🖼 Dashboard Preview**
-![Dashboard Preview](Dashboard_Preview.png)
-
 ### **💻 Technical Note: Developed on Excel for the Web**
 This entire dashboard was built exclusively using **Excel for the Web**. Despite browser-based interface constraints, I successfully implemented a high-performance reporting tool using:
 * **Interactive Slicers:** A dynamic Age filter that updates all linked Pivot Charts simultaneously.
